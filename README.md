@@ -1,2 +1,1 @@
-# Startup.exe
-Starting up
+TinDog Starting Files
